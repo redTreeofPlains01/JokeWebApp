@@ -1,6 +1,6 @@
 # Object Relation Mapp ORM
 
-![ORM](/Screenshot 2022-02-25 142556.png)
+![ORM](/JokeWebApp/Screenshot 2022-02-25 142556.png)
 
 
 
