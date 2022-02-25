@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f1b43d1-86b9-4158-ae59-d79da935e626": {
+      "ProjectGuid": "3f1b43d1-86b9-4158-ae59-d79da935e626",
+      "DisplayName": "JokeWebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
