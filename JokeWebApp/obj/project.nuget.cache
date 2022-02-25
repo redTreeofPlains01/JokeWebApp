@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wq+tKZS2lfT6DnGfLF2iW5ZNj3LYRYD1vyIVZD59U14lXTpr0uEIdRSjLYxKw6JWW4FRGN2GmoHf35tg7JJueg==",
+  "dgSpecHash": "zK8lgH7wLBvnbDjXyUc7sgeHc80aAHMM4zmFGuDXeFZrYjXbYAe3Aague2EBUCAGRKZ89U0rsUjNoXJSr6d61Q==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\Web_Browser\\JokeWebApp\\JokeWebApp\\JokeWebApp.csproj",
+  "projectFilePath": "C:\\GitHub\\JokeWebApp\\JokeWebApp\\JokeWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\heeki\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\heeki\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
